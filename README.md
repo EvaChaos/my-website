@@ -1,4 +1,6 @@
 # SecureVault Docs
-![Favicon](static/img/lock.png)
+<p align="center">
+  <img width="460" height="300" src="static/img/lock.png">
+</p>
 ## Introduction
  

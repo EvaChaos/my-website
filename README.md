@@ -23,3 +23,17 @@ SecureVault Docs v1.1.0 is a documentation website for SecureVault, a fictional 
   
   > The site meets The Web Content Accessibility Guidelines (WCAG) standards making it equally accessible to all users.
  
+## Installation
+To run the project on your local machine, do the following: 
+1. Clone the project repository.
+   ```
+   $ git clone {the url to the GitHub repo}
+   ```
+3. Install dependencies.
+   ```
+   $ npm install
+   ```
+5. Start your application development server.
+   ```
+   $ npm start
+   ```

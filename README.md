@@ -39,5 +39,5 @@ To run the project on your local machine, do the following:
    ```
 ## Contact
 Let's connect on social media:
-- [LinkedIn](www.linkedin.com/in/yauheniya-krasnikava-b56284217)
-- [Hashnode](jenny-of-oldstones.hashnode.dev)
+- [LinkedIn](https://linkedin.com/in/yauheniya-krasnikava-b56284217)
+- [Hashnode](https://jenny-of-oldstones.hashnode.dev)

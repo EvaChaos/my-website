@@ -37,3 +37,7 @@ To run the project on your local machine, do the following:
    ```
    $ npm start
    ```
+## Contact
+Let's connect on social media:
+- [LinkedIn](www.linkedin.com/in/yauheniya-krasnikava-b56284217)
+- [Hashnode](jenny-of-oldstones.hashnode.dev)
